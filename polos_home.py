@@ -67,7 +67,7 @@ else:
 # Página principal
 st.title("GENPAC")
 st.write("Área destinada para vídeos, textos e orientações.")
-st.video("st.video("https://drive.google.com/uc?export=preview&id=1PFaXbom_CBECQDCSEPZSnynxaOMpLHsM")
+st.video("https://drive.google.com/uc?export=preview&id=1PFaXbom_CBECQDCSEPZSnynxaOMpLHsM")
 
 
 # Rodapé fixo
