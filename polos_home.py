@@ -67,7 +67,7 @@ else:
 # Página principal
 st.title("GENPAC")
 st.write("Área destinada para vídeos, textos e orientações.")
-st.video("https://www.appsheet.com/start/c4dbab31-a8e5-4762-ae9d-d36539332035")
+st.video("https://drive.google.com/file/d/1PFaXbom_CBECQDCSEPZSnynxaOMpLHsM/view?usp=sharing")
 
 # Rodapé fixo
 st.markdown("""
