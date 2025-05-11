@@ -22,7 +22,9 @@ polos = {
             "SMED LESTE": {
                 "url": "https://www.appsheet.com/start/eb779b55-6ced-4a8e-b3c6-2caa271fc106"
             },
-            "SMED NORTE": {"url": ""},
+            "SMED NORTE": {
+                "url": "https://www.appsheet.com/start/5be3b962-b0aa-4b42-b533-7573e7eb3da6"},
+            
             "BANRISUL CENTRO": {
                 "url": "https://www.appsheet.com/start/3222c768-03d7-4100-ad23-437e3706a8d5"
             }
