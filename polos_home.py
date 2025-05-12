@@ -18,7 +18,8 @@ polos = {
             },
             "SERPRO": {"url": ""},
             "INMETRO": {"url": ""},
-            "SEC. OBRAS PÚBLICA": {"url": ""},
+            "SEC. OBRAS PÚBLICA": {
+                "url": "https://www.appsheet.com/start/dadd8a36-177c-437b-9648-5f6ab6428b19"},
             "SMED LESTE": {
                 "url": "https://www.appsheet.com/start/eb779b55-6ced-4a8e-b3c6-2caa271fc106"
             },
