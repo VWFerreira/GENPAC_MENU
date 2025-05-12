@@ -16,8 +16,6 @@ polos = {
             "BANRISUL USER 2": {
                 "url": "https://www.appsheet.com/start/0301816b-0516-481f-bccb-19b31720175a"
             },
-            "SERPRO": {"url": ""},
-            "INMETRO": {"url": ""},
             "SEC. OBRAS PÚBLICA": {
                 "url": "https://www.appsheet.com/start/dadd8a36-177c-437b-9648-5f6ab6428b19"},
             "SMED LESTE": {
