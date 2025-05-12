@@ -60,7 +60,7 @@ if subpaginas:
         <div style='display: flex; align-items: center; margin-bottom: 8px;'>
             <span style='font-size: 18px; margin-right: 8px;'>🏗️</span>
             <a href='{info["url"]}' target='_blank' 
-               style='text-decoration: none; color: white; font-size: 15px;'>{nome}</a>
+               style='text-decoration: none; color: blue; font-size: 15px;'>{nome}</a>
         </div>
         """
         st.sidebar.markdown(html, unsafe_allow_html=True)
