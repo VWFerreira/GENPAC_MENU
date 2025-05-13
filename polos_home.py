@@ -36,10 +36,18 @@ polos = {
             },
         }
     },
+    "POLO PR": {
+        "CONTRATOS":{
+            "FUNDEPAR":{
+                "url": "https://www.appsheet.com/start/2660e717-f91b-477f-9da6-fe3a3f9b391d"
+            }
+        }
+    },
+    
     "POLO DF": {}, "POLO CG": {}, "POLO GO": {}, "POLO RN MO": {},
     "POLO RN MA": {}, "POLO RN PF": {}, "POLO MG BH": {},
     "POLO RS VERA": {}, "POLO RS PE": {}, "POLO RN AB": {}, "POLO RN NC": {},
-    "POLO PR": {}, "POLO REC": {}
+     "POLO REC": {}
 }
 
 # Sidebar com logo e navegação
