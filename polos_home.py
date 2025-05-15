@@ -73,11 +73,23 @@ if subpaginas:
 else:
     st.sidebar.info("Nenhuma subpágina para este polo.")
 
+import streamlit as st
+
 # Página principal
 st.title("GENPAC")
 st.write("Área destinada para vídeos, textos e orientações.")
-st.video("https://youtu.be/49Xo_sQLBig")
 
+# Linha com quatro vídeos lado a lado
+col1, col2, col3, col4 = st.columns(4)
+
+with col1:
+    st.video("https://youtu.be/49Xo_sQLBig")
+with col2:
+    st.video("https://youtu.be/49Xo_sQLBig")
+with col3:
+    st.video("https://youtu.be/49Xo_sQLBig")
+with col4:
+    st.video("https://youtu.be/49Xo_sQLBig")
 
 # Rodapé fixo
 st.markdown("""
@@ -129,4 +141,3 @@ st.markdown("""
         © 2025 <strong>GENPAC</strong> — Todos os direitos reservados<br>
     </div>
 """, unsafe_allow_html=True)
-
