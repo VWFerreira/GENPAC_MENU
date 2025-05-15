@@ -81,6 +81,7 @@ import streamlit as st
 st.title("GENPAC")
 st.write("Área destinada para vídeos, textos e orientações.")
 
+st.title("Orientações Banrisul Centro Contrato")
 # Linha com 4 vídeos + texto de orientação
 col1, col2, col3, col4 = st.columns(4)
 
