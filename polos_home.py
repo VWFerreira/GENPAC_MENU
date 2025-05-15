@@ -90,8 +90,8 @@ with col1:
     st.write("🔹 Orientação 1: Acesso e Ordens de Serviços.")
 
 with col2:
-    st.video("https://youtu.be/49Xo_sQLBig")
-    st.write("🔹 Orientação 2: Cadastro de usuários.")
+    st.video("https://youtu.be/Punyd4jayP0")
+    st.write("🔹 Orientação 2: Dashboard,Equipe, Lista de Ferramentas, Mapa,Arquivo,Rotas, Relatorio fotografico.")
 
 with col3:
     st.video("https://youtu.be/49Xo_sQLBig")
