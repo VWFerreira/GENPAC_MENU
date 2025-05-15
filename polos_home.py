@@ -75,21 +75,30 @@ else:
 
 import streamlit as st
 
-# Página principal
+import streamlit as st
+
+# Pagina Principal
 st.title("GENPAC")
 st.write("Área destinada para vídeos, textos e orientações.")
 
-# Linha com quatro vídeos lado a lado
+# Linha com 4 vídeos + texto de orientação
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
     st.video("https://youtu.be/49Xo_sQLBig")
+    st.write("🔹 Orientação 1: Como acessar o sistema.")
+
 with col2:
     st.video("https://youtu.be/49Xo_sQLBig")
+    st.write("🔹 Orientação 2: Cadastro de usuários.")
+
 with col3:
     st.video("https://youtu.be/49Xo_sQLBig")
+    st.write("🔹 Orientação 3: Preenchimento de relatórios.")
+
 with col4:
     st.video("https://youtu.be/49Xo_sQLBig")
+    st.write("🔹 Orientação 4: Envio de documentos.")
 
 # Rodapé fixo
 st.markdown("""
