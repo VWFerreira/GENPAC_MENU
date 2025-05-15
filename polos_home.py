@@ -86,7 +86,7 @@ st.title("Orientações Banrisul Centro Contrato")
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
-    st.video("https://youtu.be/49Xo_sQLBig")
+    st.video("https://youtu.be/YDw-vPdMw_g")
     st.write("🔹 Orientação 1: Como acessar o sistema.")
 
 with col2:
