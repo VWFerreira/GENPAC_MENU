@@ -103,7 +103,7 @@ with col4:
 
 st.markdown("---")
 
-st.title("Orientações SMED Leste e Norte"
+st.title("Orientações SMED Leste e Norte")
 col5, col6, col7, col8 = st.columns(4)
 
 with col5:
