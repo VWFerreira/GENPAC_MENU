@@ -107,19 +107,19 @@ st.title("Orientações SMED Leste e Norte")
 col5, col6, col7, col8 = st.columns(4)
 
 with col5:
-    st.video("https://youtu.be/YDw-vPdMw_g")
+    st.video(""https://www.youtube.com/watch?v=ysz5S6PUM-U")
     st.write("🔹 Orientação 5:.")
 
 with col6:
-    st.video("https://youtu.be/Punyd4jayP0")
+    st.video(""https://www.youtube.com/watch?v=ysz5S6PUM-U")
     st.write("🔹 Orientação 6: .")
 
 with col7:
-    st.video("https://youtu.be/49Xo_sQLBig")
+    st.video(""https://www.youtube.com/watch?v=ysz5S6PUM-U")
     st.write("🔹 Orientação 7:.")
 
 with col8:
-    st.video("https://youtu.be/49Xo_sQLBig")
+    st.video(""https://www.youtube.com/watch?v=ysz5S6PUM-U")
     st.write("🔹 Orientação 8:.")
 
 # Rodapé fixo
