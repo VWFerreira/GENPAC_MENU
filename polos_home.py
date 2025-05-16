@@ -94,12 +94,12 @@ with col2:
     st.write("🔹 Orientação 2: Dashboard,Equipe, Lista de Ferramentas, Mapa,Arquivo,Rotas, Relatorio fotografico.")
 
 with col3:
-    st.video("https://youtu.be/49Xo_sQLBig")
-    st.write("🔹 Orientação 3: Preenchimento de relatórios.")
+    st.video("https://www.youtube.com/watch?v=ysz5S6PUM-U")
+    st.write("🔹 Orientação 3:")
 
 with col4:
-    st.video("https://youtu.be/49Xo_sQLBig")
-    st.write("🔹 Orientação 4: Envio de documentos.")
+    st.video("https://www.youtube.com/watch?v=ysz5S6PUM-U")
+    st.write("🔹 Orientação 4:")
 
 st.markdown("---")
 
@@ -108,19 +108,19 @@ col5, col6, col7, col8 = st.columns(4)
 
 with col5:
     st.video("https://www.youtube.com/watch?v=ysz5S6PUM-U")
-    st.write("🔹 Orientação 5:.")
+    st.write("🔹 Orientação 1:.")
 
 with col6:
     st.video("https://www.youtube.com/watch?v=ysz5S6PUM-U")
-    st.write("🔹 Orientação 6: .")
+    st.write("🔹 Orientação 2: .")
 
 with col7:
     st.video("https://www.youtube.com/watch?v=ysz5S6PUM-U")
-    st.write("🔹 Orientação 7:.")
+    st.write("🔹 Orientação 3:.")
 
 with col8:
     st.video("https://www.youtube.com/watch?v=ysz5S6PUM-U")
-    st.write("🔹 Orientação 8:.")
+    st.write("🔹 Orientação 4:.")
 
 # Rodapé fixo
 st.markdown("""
